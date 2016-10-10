@@ -1,0 +1,119 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: #333;
+	position: relative;
+}
+
+#table {
+	
+	position: absolute;
+    bottom: 20px;
+    left: 100px;
+    border-bottom: 92px solid #f7c85b;
+    border-left: 52px solid transparent;
+    border-right: 20px solid transparent;
+    height: 0;
+    width: 650px;
+    transform: skew(12deg);
+
+
+}
+#mat {
+	border-bottom: 50px solid #bfefe6;
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	height: 0;
+	width: 300px;
+
+	position: absolute;
+	bottom: 47px;
+	left: 300px;
+}
+#apple {
+   display:block;
+   width: 30px;
+   height: 40px;
+   background-color: #d1221f;
+   border-radius:         70%  50%  50%  60%  / 40%   40%   50%  50%;
+
+   position: absolute;
+   bottom: 88px;
+   left: 412px;
+
+	box-shadow: -3px -1px 23px 5px rgba(0,0,0,0.75);
+
+}
+
+#candle {
+	width: 34px;
+	height: 105px;
+	background: #ffffcc;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+
+	  position: absolute;
+   bottom: 83px;
+   left: 344px;
+
+   box-shadow: -3px -1px 23px 5px rgba(0,0,0,0.75);
+}
+
+#light {
+	    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 23px solid yellow;
+    position: absolute;
+    bottom: 175px;
+    left: 350px;
+
+ 	filter: blur(5px);
+}
+
+#stem {
+	 width: 80px;
+    height: 3px;
+    background: #512c08;
+    position: absolute;
+    bottom: 66px;
+    left: 345px;
+}
+
+#flower {
+	 width: 0;
+    height: 0;
+    border: 50px solid transparent;
+    border-bottom: 20px solid #210301;
+    position: relative;
+    top: 438px;
+    position: absolute;
+    bottom: 66px;
+    left: 406px;
+    transform: rotate(-113deg) scale(-0.4);
+
+}
+#flower:after {
+	content: '';
+	position: absolute;
+	left: -50px; top: 20px;
+	width: 0;
+	height: 0;
+	border: 50px solid transparent;
+	border-top: 70px solid #210301;
+}
+
+
+
+
