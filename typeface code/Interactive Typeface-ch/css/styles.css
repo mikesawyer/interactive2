@@ -1,0 +1,1234 @@
+
+#f_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.f {
+	background-color: transparent;
+	border: 3px solid black;
+	border-radius: 60px;
+	height: 80px;
+	width: 80px; 
+}
+.line_f {
+    height: 3px;
+    width: 40px;
+    background-color: black;
+    top: 41px;
+    left: 3px;
+    position: absolute;
+}
+.f_blackout {
+	 height: 45px;
+    width: 45px;
+    background-color: white;
+    top: 50px;
+    left: 50px;
+    position: absolute;
+}
+
+
+
+
+
+#u_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.u {
+	background-color: transparent;
+	border: 3px solid black;
+	border-radius: 60px;
+	height: 80px;
+	width: 80px; 
+}
+.u_blackout {
+	width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    transform: rotate(-25deg);
+    top: 5px;
+    left: 9px;
+ }
+
+
+
+
+
+
+
+#c_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.c {
+	background-color: transparent;
+	border: 3px solid black;
+	border-radius: 60px;
+	height: 80px;
+	width: 80px; 
+}
+.c_blackout {
+	height: 52px;
+    width: 47px;
+    background-color: white;
+    top: 0px;
+    left: 39px;
+    position: absolute;
+ }
+
+
+
+
+
+
+
+#k_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.k {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+}
+.k_blackout {
+	height: 86px;
+    width: 47px;
+    background-color: white;
+    top: 0px;
+    left: 49px;
+    position: absolute;
+ }
+ .k_blackout2 {
+    height: 20px;
+    width: 29px;
+    background-color: white;
+    top: 0px;
+    left: 20px;
+    position: absolute;
+ }
+ .line_k {
+    height: 3px;
+    width: 85px;
+    background-color: black;
+    top: 42px;
+    position: absolute;
+}
+ .line_k2 {
+    height: 3px;
+    width: 60px;
+    background-color: black;
+    top: 20px;
+    left: -7px;
+    position: absolute;
+    transform: rotate(-45deg);
+}
+
+
+
+
+
+
+#a_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.a {
+	background-color: transparent;
+	border: 3px solid black;
+	border-radius: 60px;
+	height: 80px;
+	width: 80px; 
+}
+.line_a {
+    height: 3px;
+    width: 86px;
+    background-color: black;
+    top: 42px;
+    position: absolute;
+}
+.a_blackout {
+	height: 35px;
+    width: 27px;
+    background-color: white;
+    top: 51px;
+    left: 45px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#b_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.b {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_b {
+    height: 86px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 42px;
+    position: absolute;
+}
+.line_b2 {
+	height: 3px;
+    width: 43px;
+    background-color: black;
+    top: 42px;
+    left: 42px;
+    position: absolute;
+}
+.b_blackout {
+    height: 47px;
+    width: 42px;
+    background-color: white;
+    top: 39px;
+    position: absolute;
+}
+
+
+
+
+
+
+#d_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.d {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_d {
+    height: 86px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 42px;
+    position: absolute;
+}
+.d_blackout {
+    height: 47px;
+    width: 42px;
+    background-color: white;
+    top: 39px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#e_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.e {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_e {
+    height: 3px;
+    width: 43px;
+    background-color: black;
+    top: 42px;
+    left: 2px;
+    position: absolute;
+}
+.e_blackout {
+    height: 30px;
+    width: 24px;
+    background-color: white;
+    top: 15px;
+    left: 62px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#g_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.g {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_g {
+    height: 3px;
+    width: 39px;
+    background-color: black;
+    top: 43px;
+    left: 44px;
+    position: absolute;
+}
+.g_blackout {
+    height: 43px;
+    width: 43px;
+    background-color: white;
+    top: 0px;
+    left: 43px;
+    position: absolute;
+}
+
+
+
+
+
+#h_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.h {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_h {
+    height: 3px;
+    width: 86px;
+    background-color: black;
+    top: 42px;
+    position: absolute;
+}
+.h_blackout {
+    height: 20px;
+    width: 35px;
+    background-color: white;
+    top: 66px;
+    left: 45px;
+    position: absolute;
+}
+.h_blackout2 {
+    height: 20px;
+    width: 37px;
+    background-color: white;
+    top: 0px;
+    left: 2px;
+    position: absolute;
+}
+
+
+
+
+
+
+#i_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.i {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_i {
+    height: 83px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 41px;
+    position: absolute;
+}
+.i_blackout {
+    height: 23px;
+    width: 23px;
+    background-color: white;
+    top: 46px;
+    left: 63px;
+    position: absolute;
+}
+.i_blackout2 {
+    height: 23px;
+    width: 31px;
+    background-color: white;
+    top: 17px;
+    left: 0px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#j_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.j {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_j {
+    height: 83px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 41px;
+    position: absolute;
+}
+.j_blackout {
+    height: 42px;
+    width: 42px;
+    background-color: white;
+    top: 44px;
+    left: 44px;
+    position: absolute;
+}
+.j_blackout2 {
+    height: 23px;
+    width: 31px;
+    background-color: white;
+    top: 17px;
+    left: 0px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#l_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.l {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_l {
+    height: 83px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 41px;
+    position: absolute;
+}
+.l_blackout {
+    height: 42px;
+    width: 42px;
+    background-color: white;
+    top: 44px;
+    left: -1px;
+    position: absolute;
+}
+.l_blackout2 {
+    height: 23px;
+    width: 31px;
+    background-color: white;
+    top: 17px;
+    left: 55px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#m_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.m {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_m {
+    height: 44px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 41px;
+    position: absolute;
+}
+.m_blackout {
+    height: 23px;
+    width: 31px;
+    background-color: white;
+    top: 63px;
+    left: 50px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#n_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.n {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_n {
+    height: 84px;
+    width: 3px;
+    background-color: black;
+    top: 1px;
+    left: 41px;
+    transform: rotate(160deg);
+    position: absolute;
+}
+.n_blackout {
+	width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    left: 28px;
+    top: 0px;
+}
+.n_blackout2 {
+	width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    transform: rotate(180deg);
+    top: 58px;
+    left: 27px;
+}
+
+
+
+
+
+
+
+
+#o_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.o {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+
+
+
+
+
+
+#p_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.p {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_p {
+    height: 86px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 42px;
+    position: absolute;
+}
+.line_p2 {
+	height: 3px;
+    width: 43px;
+    background-color: black;
+    top: 42px;
+    left: 42px;
+    position: absolute;
+}
+.p_blackout {
+    height: 47px;
+    width: 42px;
+    background-color: white;
+    top: 39px;
+    position: absolute;
+}
+.p_blackout2 {
+    height: 41px;
+    width: 42px;
+    background-color: white;
+    top: 45px;
+    left: 45px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#q_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.q {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_q {
+    height: 40px;
+    width: 3px;
+    background-color: black;
+    top: 39px;
+    left: 58px;
+    transform: rotate(-45deg);
+    position: absolute;
+}
+
+
+
+
+
+#r_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.r {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+}
+.r_blackout {
+	height: 86px;
+    width: 46px;
+    background-color: white;
+    top: 0px;
+    left: 44px;
+    position: absolute;
+ }
+ .line_r {
+    height: 3px;
+    width: 85px;
+    background-color: black;
+    top: 42px;
+    left: 1px;
+    position: absolute;
+}
+ .line_r2 {
+    height: 3px;
+    width: 58px;
+    background-color: black;
+    top: 21px;
+    left: -7.5px;
+    position: absolute;
+    transform: rotate(-45deg);
+}
+
+
+
+
+
+#s_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.s {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+}
+.s_blackout {
+	height: 42px;
+    width: 42px;
+    background-color: white;
+    top: 45px;
+    left: 0px;
+    position: absolute;
+ }
+ .s_blackout2 {
+	height: 42px;
+    width: 42px;
+    background-color: white;
+    top: 0px;
+    left: 44px;
+    position: absolute;
+ }
+ .line_s {
+    height: 3px;
+    width: 85px;
+    background-color: black;
+    top: 42px;
+    left: 1px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+#t_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.t {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+}
+.t_blackout {
+	height: 45px;
+    width: 42px;
+    background-color: white;
+    top: 41px;
+    left: 0px;
+    position: absolute;
+ }
+ .t_blackout2 {
+	height: 45px;
+    width: 42px;
+    background-color: white;
+    top: 41px;
+    left: 45px;
+    position: absolute;
+ }
+ .line_t {
+    height: 86px;
+    width: 3px;
+    background-color: black;
+    top: 0px;
+    left: 42px;
+    position: absolute;
+}
+
+
+
+
+ #v_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.v {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px;
+}
+.v_blackout {
+	width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    top: 1px;
+    left: 38px;
+    transform: rotate(25deg);
+ }
+ .v_blackout2 {
+	height: 45px;
+    width: 86px;
+    background-color: white;
+    top: 41px;
+    left: 0px;
+    position: absolute;
+ }
+ .line_v {
+    height: 61px;
+    width: 3px;
+    background-color: black;
+    top: 31px;
+    transform: rotate(-45deg);
+    left: 21.4px;
+    position: absolute;
+}
+ .line_v2 {
+    height: 61px;
+    width: 3px;
+    background-color: black;
+    top: 31px;
+    transform: rotate(45deg);
+    left: 62.45px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+
+#w_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.w {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_w {
+    height: 40px;
+    width: 3px;
+    background-color: black;
+    top: 46px;
+    left: 41px;
+    position: absolute;
+}
+.w_blackout {
+    height: 23px;
+    width: 31px;
+    background-color: white;
+    top: -1px;
+    left: 10px;
+    position: absolute;
+}
+
+
+
+
+
+#x_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.x {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_x {
+    height: 83px;
+    width: 3px;
+    background-color: black;
+    top: 1px;
+    transform: rotate(45deg);
+    left: 42px;
+    position: absolute;
+}
+.line2_x {
+    height: 83px;
+    width: 3px;
+    background-color: black;
+    top: 1px;
+    transform: rotate(-45deg);
+    left: 42px;
+    position: absolute;
+}
+
+
+
+
+
+
+#y_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.y {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_y {
+    height: 57px;
+    width: 3px;
+    background-color: black;
+    top: -6px;
+    transform: rotate(45deg);
+    left: 20px;
+    position: absolute;
+}
+.y_blackout {
+    height: 52px;
+    width: 74px;
+    background-color: white;
+    top: 0px;
+    left: 12px;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
+#z_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+}
+.z {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_z {
+    height: 82px;
+    width: 3px;
+    background-color: black;
+    top: 3px;
+    left: 42px;
+    transform: rotate(45deg);
+    position: absolute;
+}
+.z_blackout {
+    width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    transform: rotate(-109deg);
+    top: 39px;
+    left: 1px;
+}
+.z_blackout2 {
+    width: 0;
+    height: 0;
+    border-top: 35px solid white;
+    border-left: 17.5px solid transparent;
+    border-right: 17.5px solid transparent;
+    position: absolute;
+    transform: rotate(71deg);
+    top: 14px;
+    left: 52px;
+ }
+
+
+
+
+
+ #space_container {
+	height: 86px;
+  	width: 50px;
+  	background-color: transparent;
+  	position: relative;
+}
+
+
+
+@keyframes body {
+	from{ background: black; }
+	to{ background: white; }
+}
+
+@keyframes background {
+	from{ background: white; }
+	to{ background: black; }
+}
+
+
+@keyframes border {
+	from{ border-color: white; }
+	to{ border-color: black; }
+}
+
+.body-color {
+  	animation: body 2s;
+  	animation-direction: alternate;
+  	animation-iteration-count: infinite;	
+}
+
+.background-color {
+  	animation: background 2s;
+  	animation-direction: alternate;
+  	animation-iteration-count: infinite;	
+}
+
+.border-color {
+  	animation: border 2s;
+  	animation-direction: alternate;
+  	animation-iteration-count: infinite;	
+}
+
+#logo_container {
+	height: 86px;
+  	width: 86px;
+  	background-color: transparent;
+  	position: relative;
+
+  	margin: auto;
+  	margin-top: calc(50vh - 43px);
+}
+
+.logo {
+	background-color: transparent;
+    border: 3px solid black;
+    border-radius: 60px;
+    height: 80px;
+    width: 80px; 
+}
+.line_logo {
+    height: 3px;
+    width: 85px;
+    background-color: black;
+    top: 42px;
+    position: absolute;
+    transform: rotate(-45deg);
+}
+.line2_logo {
+    height: 3px;
+    width: 85px;
+    background-color: black;
+    top: 42px;
+    position: absolute;
+    transform: rotate(45deg);
+}
+.square_logo {
+    height: 54px;
+    width: 54px;
+    border: 3px solid black;
+    position: absolute;
+    top: 13px;
+    left: 13px;
+}
+.square2_logo {
+    height: 54px;
+    width: 54px;
+    border: 3px solid black;
+    position: absolute;
+    top: 13px;
+    left: 13px;
+    transform: rotate(45deg);
+}
+
+
+
+
+
+
+
+/* alignment CSS */
+
+/* making each line of text 120px tall and take up the whole width of the page */
+
+.text_line {
+    width: 100%;
+    height: 120px;
+
+    text-align: center;
+}
+
+/* make each letter show up in a line, and have 5px spacing on both sides */
+
+.text_line > div {
+    display: inline-block;
+    margin: 0px 7px;
+}
+
+
+/* apply rotate animation to all divs with an id that ends in '_container' */
+
+div[id$="_container"]{
+    animation-name: rotate;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+}
+
+/* 
+vertically align text to center
+move #aligner down 50% of the page
+then negative 86px up (the height of all lines stacked divided by 2) 
+*/
+
+#center_two_lines {
+    position: absolute;
+    top: 50%;
+    margin-top: -240px;
+    width: 100%;
+}
+
+#center_three_lines {
+    position: absolute;
+    top: 50%;
+    margin-top: -240px;
+    width: 100%;
+}
+
+
+/* apply dark variation */
+
+/* make the body background black */
+
+body.dark {
+    background: black;
+}
+
+/* 
+find all elements in the body with '.dark' class 
+that begin with class '.line_' 
+and make their background white 
+*/
+
+body.dark div[class^="line_"] {
+    background-color: white;
+}
+
+/* 
+find all elements in the body with '.dark' class 
+that end with class '_blackout' 
+and make their background black 
+*/
+
+
+body.dark div[class$="_blackout"], body.dark div[class$="_blackout2"] {
+    background-color: black;
+}
+
+body.dark div.n_blackout, body.dark div.n_blackout2, body.dark div.z_blackout, body.dark div.z_blackout2, body.dark div.u_blackout, body.dark div.v_blackout {
+    background-color: transparent;
+    border-top-color: black;
+}
+
+
+/* 
+find all elements in the body with '.dark' class 
+that end with id '_container' 
+and make the first div inside have a white border 
+*/
+
+body.dark div[id$="_container"] div:first-child{
+    border-color: white;
+}
+
+/* rotate letters */
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0deg);
+    }
+   
+    100% {
+        transform: rotate(360deg);   
+    }
+}
