@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 100vw;
+	height: 100vh;
+	margin: 0px auto;
+	background: white;
+	position: relative;
+}
+
+.black {
+	background-color: black;
+	width: 400px;
+	height: 600px;
+	margin: auto;
+}
+
+.white {
+	opacity: 0;
+	color: red;
+	margin-left: 705px;
+	margin-top: 50px;
+	
+	-webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out;
+}
+
+.black:hover + .white {
+	opacity: 1;
+	color: red;
+}
+
